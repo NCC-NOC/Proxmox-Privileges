@@ -1,0 +1,1 @@
+bpg/proxmoxプロバイダーで用意された**proxmox_virtual_environment_user**のラッパー
