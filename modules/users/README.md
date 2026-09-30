@@ -1,1 +1,3 @@
 bpg/proxmoxプロバイダーで用意された**proxmox_virtual_environment_user**のラッパー
+新規に作成されたユーザのパスワードはTerraform側で生成したランダムな文字列を使用する。
+ユーザ側でパスワードの変更を推奨。
